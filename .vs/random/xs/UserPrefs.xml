@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{704AA96E-C07F-639E-D722-AF20175BF1C7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/samurai.cs">
+    <Files>
+      <File FileName="Assets/samurai.cs" Line="29" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
